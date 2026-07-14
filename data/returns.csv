@@ -1,0 +1,6 @@
+sku,vendor,sold_units,returned_units,top_return_reason
+DRS-102,Vendor A,1000,48,Stitching defect
+TSH-221,Vendor B,900,15,Size issue
+JNS-045,Vendor C,600,13,Fit issue
+TOP-332,Vendor A,850,44,Fabric tear
+SHO-118,Vendor D,400,8,Color mismatch

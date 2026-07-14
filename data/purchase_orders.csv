@@ -1,0 +1,6 @@
+po_id,sku,vendor,qty,stage,planned_dispatch_date,current_delay_days
+PO-1001,DRS-102,Vendor A,800,Stitching,2026-07-18,5
+PO-1002,TSH-221,Vendor B,1200,Packing,2026-07-16,0
+PO-1003,JNS-045,Vendor C,500,Cutting,2026-07-20,3
+PO-1004,TOP-332,Vendor A,700,Finishing,2026-07-17,2
+PO-1005,SHO-118,Vendor D,300,Fabric Ready,2026-07-22,0
