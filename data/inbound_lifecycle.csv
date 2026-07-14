@@ -1,0 +1,6 @@
+po_id,sku,vendor,po_released,vendor_manufacturing,sample_inspection,catalogue_goods_dispatch,bulk_scan_pack,invoice_generation,approval,three_pl_pickup,three_pl_staging_warehouse,myntra_wh_allocation,wh_transfer,grn,inventory_live,current_step,blocked_reason
+PO-1001,DRS-102,Vendor A,Done,Delayed,Pending,Pending,Pending,Pending,Pending,Pending,Pending,Pending,Pending,Pending,Pending,Vendor Manufacturing,Stitching delayed by 5 days
+PO-1002,TSH-221,Vendor B,Done,Done,Done,Done,Done,Done,Done,Pending,Pending,Pending,Pending,Pending,Pending,3PL Pickup,Awaiting pickup slot
+PO-1003,JNS-045,Vendor C,Done,Delayed,Pending,Pending,Pending,Pending,Pending,Pending,Pending,Pending,Pending,Pending,Pending,Vendor Manufacturing,Cutting delayed by 3 days
+PO-1004,TOP-332,Vendor A,Done,Done,Done,Delayed,Pending,Pending,Pending,Pending,Pending,Pending,Pending,Pending,Pending,Catalogue Goods Dispatch,Dispatch documentation pending
+PO-1005,SHO-118,Vendor D,Done,Done,Done,Done,Done,Done,Done,Done,Done,WH-Delhi:120;WH-Mumbai:100;WH-Bengaluru:80,In Progress,Pending,Pending,WH Transfer,Transfer truck scheduled
